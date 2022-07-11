@@ -2,7 +2,7 @@
 
 
 
-[<img alt="Project link" align="right" src="https://sun9-west.userapi.com/sun9-8/s/v1/ig2/IoglZu4RmWmzqzJ9Emr_LZk8-XhUg_fxyxnsVGui1QJ4uKlLBT08SgEXyOTsCcoUjSTnG8KSn7eE2vDmv5nLkkNk.jpg?size=1878x892&quality=96&type=album" width="700"/>](https://data-base-client.herokuapp.com/)
+[<img alt="Project link" align="right" src="https://sun9-west.userapi.com/sun9-8/s/v1/ig2/IoglZu4RmWmzqzJ9Emr_LZk8-XhUg_fxyxnsVGui1QJ4uKlLBT08SgEXyOTsCcoUjSTnG8KSn7eE2vDmv5nLkkNk.jpg?size=1878x892&quality=96&type=album" width="500"/>](https://data-base-client.herokuapp.com/)
 <h3>Приложение для поиска <br/>справочной информации <br/> по авиационным датчикам<h3>
 
 <h3>Creditionals:<h4>
