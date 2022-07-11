@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+# Онлайн база данных по авиационным датчикам
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+[<img alt="Project link" align="right" src="https://sun9-west.userapi.com/sun9-8/s/v1/ig2/IoglZu4RmWmzqzJ9Emr_LZk8-XhUg_fxyxnsVGui1QJ4uKlLBT08SgEXyOTsCcoUjSTnG8KSn7eE2vDmv5nLkkNk.jpg?size=1878x892&quality=96&type=album" width="700"/>](https://data-base-client.herokuapp.com/)
+<h3>Приложение для поиска <br/>справочной информации <br/> по авиационным датчикам<h3>
 
-### `yarn start`
+<h3>Creditionals:<h4>
+<h6>login: student@gmail.com</h6>
+<h6>password: student</h6>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br /><br /><br /><br />
+---
+### 🛠 &nbsp;Languages and Tools :
 
-### `yarn build`
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux Toolkit" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://cdn-images-1.medium.com/max/1200/1*y1fCsOVCYCTi1B9Q_0BOYg.png" title="styled-components" **alt="styled-components" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" **alt="NestJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### ⚡ Backend :
+- Github repo: &nbsp;[![GIT Badge](https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge)](https://github.com/SkvernoSlovie/online-db-server)
+- Swagger docs: &nbsp;[![SWAGGER Badge](https://img.shields.io/badge/swagger-green?logo=swagger&logoColor=white&style=for-the-badge)](https://online-db-server.herokuapp.com/api/docs/)
